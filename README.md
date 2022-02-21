@@ -2,7 +2,8 @@
 ### Keybinds:
 <details><summary>Auto Arrow Align</summary>
 	
-- Click keybind to instantly solve Floor 7's Arrow Align terminal
+- Click keybind to instantly solve Floor 7's Phase 3 Arrow Align terminal
+- This leaves one item frame unsolved, that has to be solved by hand for the server to properly register
 		
 </details>
 <details><summary>Blood Triggerbot</summary>
@@ -61,22 +62,11 @@
 - Includes powder chest solver
 - Change configuration in the RoseGoldAddons config menu under "Mining"
 </details>
-<details><summary>Hardstone Nuker</summary>
-	
-- Toggle to start Hardstone Nuker
-- Includes powder chest solver
-- Change configuration in the RoseGoldAddons config menu under "Mining"
-</details>
 <details><summary>Mithril Macro</summary>
 	
-- Toggle to start a "legit" version of Mithril Nuker
-</details>
-<details><summary>Mithril Nuker</summary>
-
-- Toggle to start a Mithril Nuker
-- Automatically mines mithril around the player
-- Change configuration in the RoseGoldAddons config menu under "Mining"
-- No failsafes
+- Toggle to start Mithril Macro
+- Automatically mines blocks around the player, using actual head rotations and holding down left click
+- Slower than Mithril Nuker but more "Legit"
 </details>
 <details><summary>Mithril Nuker</summary>
 	
@@ -87,15 +77,17 @@
 </details>
 <details><summary>Necron Aimbot</summary>
 	
-- Toggle to lock onto necron
+- Toggle to lock the player's camera onto Necron's position
 - I dont know why this is a feature, blame APhatL
 </details>
-<details><summary>Powder Macro</summary>
+<details><summary>Powder Chest Macro</summary>
 	
-- Hardstone Nuker minus the Hardstone Nuker
+- Toggle to automatically solve Crystal Hollows powder chests as they spawn in
+- Bundled in with Hardstone Nuker, no need to activate both
 </details>
 
 ### Config Menu:
+- TBA
 
 #### Explanation of Custom Item Macros:
 	
@@ -127,3 +119,6 @@ Usage: `/usecooldown [milliseconds] [left]`
 	- `When: You gain Foraging XP` -> `Equip Ocelot`
 
 - You can set up a redstone clock hooked up to a dropper system to allow for full automation
+
+#### More info about Ghost Macro:
+- TBA
