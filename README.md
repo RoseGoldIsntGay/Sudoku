@@ -1,5 +1,6 @@
 # RoseGoldAddons Feature List:
 ### Keybinds:
+All the features below are clickable to open a drop-down with more information inside.
 <details><summary>Auto Arrow Align</summary>
 	
 - Click keybind to instantly solve Floor 7's Phase 3 Arrow Align terminal
@@ -121,4 +122,6 @@ Usage: `/usecooldown [milliseconds] [left]`
 - You can set up a redstone clock hooked up to a dropper system to allow for full automation
 
 #### More info about Ghost Macro:
-- TBA
+- A custom macro can be set to automatically use Soul Whip to shoot  at the closest ghost
+- A custom macro can be set to automatically use healing items to stay alive
+- It is also possible to use a different mod, such as OringoClient's Kill Aura to automatically kill ghosts in combination with custom macros
