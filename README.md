@@ -1,7 +1,7 @@
 # RoseGoldAddons Feature List:
 ### Keybinds:
 All the features below are clickable to open a drop-down with more information inside.
-<details><summary>Auto Arrow Align</summary>
+<details><summary>Arrow Align Aura</summary>
 	
 - Click keybind to instantly solve Floor 7's Phase 3 Arrow Align terminal
 - This leaves one item frame unsolved, that has to be solved by hand for the server to properly register
