@@ -55,7 +55,7 @@ All the features below are clickable to open a drop-down with more information i
 <details><summary>Ghost Macro</summary>
 	
 - Toggle to start looking at closest ghost
-- Recommended to use with other features such as custom item macros
+- Recommended to use with [other features](#more-info-about-ghost-macro) such as custom item macros
 </details>
 <details><summary>Hardstone Nuker</summary>
 	
